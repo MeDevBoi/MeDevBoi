@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeDevBoi
+- 👋 Hi, I’m @Umer
 - 👀 I’m interested in creating new apps.
 - 🌱 I’m currently learning JS and node.
 - 💞️ I’m looking to collaborate on Web projects.
